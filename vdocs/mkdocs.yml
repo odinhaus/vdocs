@@ -1,0 +1,6 @@
+﻿docs_dir: 'docs'
+site_dir: 'site'
+site_name: '@@prod Reference Guide'
+pages:
+- Home: index.md
+theme: readthedocs

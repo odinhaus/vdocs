@@ -69,7 +69,7 @@ Be sure to either copy the vdocs.exe to the same directory, or add it to your sy
 
 Open a command window and browse to the mkdocs.yml folder, then execute vdocs, passing in the directory for the *.md files (usually the same as is defined for the 'docs' attribute in the mkdocs.yml file).
 
-![1561404375442](Docs\cmd.png)
+![1561404375442](D:\Code\Altus\vdocs\Docs\cmd.png)
 
 
 

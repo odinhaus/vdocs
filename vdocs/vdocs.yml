@@ -1,0 +1,17 @@
+﻿/*
+
+	variable defintions follow the form:
+
+	variable_name: 'variable value';
+
+	it is good practice to use an uncommon and consistent naming convention or prefix for variable names
+	so that replacements are not made against actual words that might occur in the markdown text.
+
+	for example, variable names starting with double @ symbols might work nicely, e.g.:
+
+	@@product_name: 'Acme Toaster 2000';
+	@@serial_number: 'ABCDEFG12345';
+
+*/
+
+@@prod: 'gDML';
